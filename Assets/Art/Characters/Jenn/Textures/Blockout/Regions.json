@@ -1,0 +1,443 @@
+{
+  "encoding": "absolute linear grayscale; original alpha remains in Shape texture",
+  "palette": [
+    [
+      [
+        255,
+        203,
+        194
+      ],
+      0.82
+    ],
+    [
+      [
+        201,
+        66,
+        95
+      ],
+      0.18
+    ],
+    [
+      [
+        192,
+        62,
+        95
+      ],
+      0.16
+    ],
+    [
+      [
+        198,
+        128,
+        148
+      ],
+      0.44
+    ],
+    [
+      [
+        163,
+        75,
+        101
+      ],
+      0.16
+    ],
+    [
+      [
+        238,
+        165,
+        166
+      ],
+      0.65
+    ],
+    [
+      [
+        238,
+        145,
+        146
+      ],
+      0.6
+    ],
+    [
+      [
+        213,
+        123,
+        126
+      ],
+      0.51
+    ],
+    [
+      [
+        209,
+        138,
+        146
+      ],
+      0.6
+    ],
+    [
+      [
+        222,
+        154,
+        153
+      ],
+      0.67
+    ],
+    [
+      [
+        255,
+        255,
+        255
+      ],
+      0.98
+    ],
+    [
+      [
+        45,
+        76,
+        84
+      ],
+      0.075
+    ],
+    [
+      [
+        45,
+        15,
+        24
+      ],
+      0.025
+    ],
+    [
+      [
+        140,
+        46,
+        68
+      ],
+      0.12
+    ],
+    [
+      [
+        51,
+        51,
+        51
+      ],
+      0.035
+    ]
+  ],
+  "hairPalette": [
+    [
+      [
+        138,
+        40,
+        61
+      ],
+      0.1
+    ],
+    [
+      [
+        143,
+        41,
+        66
+      ],
+      0.115
+    ],
+    [
+      [
+        150,
+        43,
+        69
+      ],
+      0.13
+    ],
+    [
+      [
+        158,
+        45,
+        73
+      ],
+      0.15
+    ],
+    [
+      [
+        167,
+        48,
+        81
+      ],
+      0.18
+    ],
+    [
+      [
+        171,
+        49,
+        79
+      ],
+      0.19
+    ]
+  ],
+  "bitmaps": [
+    {
+      "bitmap": 14,
+      "source": "_ItemHairJenn01.swf.swf",
+      "symbolId": 2,
+      "file": "part_014_regions.png",
+      "linearGrayClasses": [
+        26,
+        29,
+        33,
+        38,
+        46,
+        48
+      ]
+    },
+    {
+      "bitmap": 15,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1595,
+      "file": "part_015_regions.png",
+      "linearGrayClasses": [
+        112
+      ]
+    },
+    {
+      "bitmap": 16,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1594,
+      "file": "part_016_regions.png",
+      "linearGrayClasses": [
+        209
+      ]
+    },
+    {
+      "bitmap": 17,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1593,
+      "file": "part_017_regions.png",
+      "linearGrayClasses": [
+        41,
+        112,
+        130
+      ]
+    },
+    {
+      "bitmap": 18,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1592,
+      "file": "part_018_regions.png",
+      "linearGrayClasses": [
+        41,
+        46
+      ]
+    },
+    {
+      "bitmap": 19,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1591,
+      "file": "part_019_regions.png",
+      "linearGrayClasses": [
+        9,
+        19,
+        41,
+        112,
+        130,
+        153,
+        166,
+        171,
+        209
+      ]
+    },
+    {
+      "bitmap": 20,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1590,
+      "file": "part_020_regions.png",
+      "linearGrayClasses": [
+        6,
+        19,
+        31,
+        41,
+        112,
+        166,
+        209,
+        250
+      ]
+    },
+    {
+      "bitmap": 21,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1589,
+      "file": "part_021_regions.png",
+      "linearGrayClasses": [
+        6,
+        9,
+        19,
+        41,
+        112,
+        171,
+        209,
+        250
+      ]
+    },
+    {
+      "bitmap": 22,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1588,
+      "file": "part_022_regions.png",
+      "linearGrayClasses": [
+        19
+      ]
+    },
+    {
+      "bitmap": 23,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1587,
+      "file": "part_023_regions.png",
+      "linearGrayClasses": [
+        19
+      ]
+    },
+    {
+      "bitmap": 24,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1586,
+      "file": "part_024_regions.png",
+      "linearGrayClasses": [
+        6,
+        9,
+        31,
+        41,
+        112,
+        130,
+        153,
+        166,
+        171,
+        209
+      ]
+    },
+    {
+      "bitmap": 25,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1585,
+      "file": "part_025_regions.png",
+      "linearGrayClasses": [
+        6,
+        9,
+        31,
+        41,
+        112,
+        130,
+        153,
+        166,
+        171,
+        209
+      ]
+    },
+    {
+      "bitmap": 26,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1584,
+      "file": "part_026_regions.png",
+      "linearGrayClasses": [
+        31
+      ]
+    },
+    {
+      "bitmap": 27,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1583,
+      "file": "part_027_regions.png",
+      "linearGrayClasses": [
+        31
+      ]
+    },
+    {
+      "bitmap": 28,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1582,
+      "file": "part_028_regions.png",
+      "linearGrayClasses": [
+        130,
+        153
+      ]
+    },
+    {
+      "bitmap": 29,
+      "source": "Jenn_NoWeaponMoveSet.swf.swf",
+      "symbolId": 1581,
+      "file": "part_029_regions.png",
+      "linearGrayClasses": [
+        166
+      ]
+    },
+    {
+      "bitmap": 30,
+      "source": "Jenn.swf.swf",
+      "symbolId": 189,
+      "file": "part_030_regions.png",
+      "linearGrayClasses": [
+        6
+      ]
+    },
+    {
+      "bitmap": 37,
+      "source": "Jenn.swf.swf",
+      "symbolId": 174,
+      "file": "part_037_regions.png",
+      "linearGrayClasses": [
+        9,
+        19,
+        31,
+        41,
+        46,
+        112,
+        130,
+        153,
+        166,
+        171,
+        209
+      ]
+    },
+    {
+      "bitmap": 38,
+      "source": "Jenn.swf.swf",
+      "symbolId": 190,
+      "file": "part_038_regions.png",
+      "linearGrayClasses": [
+        6
+      ]
+    },
+    {
+      "bitmap": 39,
+      "source": "Jenn.swf.swf",
+      "symbolId": 166,
+      "file": "part_039_regions.png",
+      "linearGrayClasses": [
+        6,
+        9,
+        31,
+        41,
+        112,
+        130,
+        153,
+        171
+      ]
+    },
+    {
+      "bitmap": 42,
+      "source": "Jenn.swf.swf",
+      "symbolId": 172,
+      "file": "part_042_regions.png",
+      "linearGrayClasses": [
+        6,
+        9,
+        19,
+        31,
+        41,
+        112,
+        130,
+        153,
+        166,
+        171,
+        209,
+        250
+      ]
+    }
+  ]
+}

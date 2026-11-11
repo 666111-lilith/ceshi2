@@ -1,0 +1,24 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Project-local research, captures, and generated reports
+/tmp/
+/output/
+
+# IDE and language caches
+/.vs/
+/.idea/
+/*.csproj
+/*.sln
+/*.slnx
+*.csproj.user
+__pycache__/
+*.pyc

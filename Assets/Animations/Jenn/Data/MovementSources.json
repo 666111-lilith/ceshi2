@@ -1,0 +1,68 @@
+{
+  "clips": [
+    {
+      "name": "Idle",
+      "source": "IdleCool_noWeapon",
+      "frames": 99
+    },
+    {
+      "name": "Walk",
+      "source": "Walk_noWeapon",
+      "frames": 24
+    },
+    {
+      "name": "Run",
+      "source": "Jenn_SwordMoveSet.swf.swf:Run",
+      "frames": 20
+    },
+    {
+      "name": "Dash",
+      "source": "Jenn_SwordMoveSet.swf.swf:Dash02",
+      "frames": 40
+    },
+    {
+      "name": "JumpIdle",
+      "source": "Jenn_NoWeaponMoveSet.swf.swf:JumpIdle_noWeapon",
+      "frames": 40
+    },
+    {
+      "name": "JumpMove",
+      "source": "Jenn_NoWeaponMoveSet.swf.swf:JumpWalk_noWeapon",
+      "frames": 40
+    },
+    {
+      "name": "JumpPrepareIdle",
+      "source": "Jenn_NoWeaponMoveSet.swf.swf:JumpPreparationIdle_noWeapon",
+      "frames": 5
+    },
+    {
+      "name": "JumpPrepareMove",
+      "source": "Jenn_NoWeaponMoveSet.swf.swf:JumpPreparationWalk_noWeapon",
+      "frames": 5
+    },
+    {
+      "name": "LandIdle",
+      "source": "Jenn_NoWeaponMoveSet.swf.swf:ReceptionIdle_noWeapon",
+      "frames": 15
+    },
+    {
+      "name": "LandMove",
+      "source": "Jenn_NoWeaponMoveSet.swf.swf:ReceptionWalk_noWeapon",
+      "frames": 16
+    }
+  ],
+  "partsBefore": 51,
+  "partsAfter": 73,
+  "bitmapsBefore": 44,
+  "bitmapsAfter": 57,
+  "newHeadMaps": [
+    "part_044_regions.png",
+    "part_045_regions.png",
+    "part_046_regions.png",
+    "part_048_regions.png",
+    "part_055_regions.png",
+    "part_056_regions.png"
+  ],
+  "existingIdleWalkUnchanged": true,
+  "weaponSocketsExcluded": true
+}

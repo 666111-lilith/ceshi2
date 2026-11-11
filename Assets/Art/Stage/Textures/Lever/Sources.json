@@ -1,0 +1,50 @@
+[
+  {
+    "file": "SignPost.png",
+    "role": "Shaft",
+    "source_game": "Cult of the Lamb",
+    "source_sprite": "SignPost",
+    "source_asset": "Assets/Art/Sprite/Base/Buildings/Constants/SignPost/SignPost.png",
+    "source_bundle": "D:\\SteamLibrary\\steamapps\\common\\Cult of the Lamb\\Cult Of The Lamb_Data\\StreamingAssets\\aa\\StandaloneWindows64\\91aca73acb86d6607f0efa1f803348be.bundle",
+    "serialized_file": "CAB-70987922256d1a1f73521b843388acd0",
+    "path_id": "2310407242934552115",
+    "size": [
+      49,
+      239
+    ],
+    "sha256": "2ae7cf53a0d53d0850f53c5d4675cc0686ff4c7f93c0776919cedd7d0322946c",
+    "processing": "Original extracted sprite copied byte-for-byte. No drawing, generated imagery, cropping, recoloring, or image compositing. Assembled as separate planar SpriteRenderers using the scene paper material."
+  },
+  {
+    "file": "Toolshed_wood_1.png",
+    "role": "Base",
+    "source_game": "Cult of the Lamb",
+    "source_sprite": "Toolshed_wood_1",
+    "source_asset": "Assets/Art/Sprite/Base/Buildings/Toolshed/Toolshed_Atlas.spriteatlas",
+    "source_bundle": "D:\\SteamLibrary\\steamapps\\common\\Cult of the Lamb\\Cult Of The Lamb_Data\\StreamingAssets\\aa\\StandaloneWindows64\\1dabf1209f46dbeed3bbc6374d30f7ef.bundle",
+    "serialized_file": "CAB-c6c46f1bb6401da255c369dde441b085",
+    "path_id": "-9063923195386882970",
+    "size": [
+      108,
+      62
+    ],
+    "sha256": "e683a36fa9fe47d13a4e00542bd67bb2ebfa1bc1f513161370e5fb1f57d5fab5",
+    "processing": "Original extracted sprite copied byte-for-byte. No drawing, generated imagery, cropping, recoloring, or image compositing. Assembled as separate planar SpriteRenderers using the scene paper material."
+  },
+  {
+    "file": "DST_Alchemy_Ball1.png",
+    "role": "Grip",
+    "source_game": "Cult of the Lamb",
+    "source_sprite": "DST_Alchemy_Ball1",
+    "source_asset": "Assets/Art/Sprite/Base/Decorations/DST_ScienceMachine.spriteatlas",
+    "source_bundle": "D:\\SteamLibrary\\steamapps\\common\\Cult of the Lamb\\Cult Of The Lamb_Data\\StreamingAssets\\aa\\StandaloneWindows64\\cb6c235e6b422e75dcbb560045e4e105.bundle",
+    "serialized_file": "CAB-4f77bd69d5d5541200872bba5637120c",
+    "path_id": "-2842106402473994300",
+    "size": [
+      43,
+      40
+    ],
+    "sha256": "42321bd7207944b4b0f2c0d11360854701332fca27fe21f8c3f5cde216a9bcb5",
+    "processing": "Original extracted sprite copied byte-for-byte. No drawing, generated imagery, cropping, recoloring, or image compositing. Assembled as separate planar SpriteRenderers using the scene paper material."
+  }
+]

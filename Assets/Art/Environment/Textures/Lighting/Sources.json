@@ -1,0 +1,23 @@
+[
+  {
+    "file": "Overlay_MottledLight_A.png",
+    "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Overlay_MottledLight_A.png",
+    "sha256": "394668e5f9a2794a3bff9835fff2defb2abcc440135053080078a08bec917a33",
+    "method": "Byte-identical copy. No generated image or pixel changes.",
+    "used_by": "Material/ScreenSpaceOverlay_DappledSunlight_A.mat: _TexA"
+  },
+  {
+    "file": "SmoothNoise.png",
+    "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\SmoothNoise.png",
+    "sha256": "1f0cf2ef9825b46f819bac07c31cac5fc191eb94320dfc6af8fd43de9144d1fb",
+    "method": "Byte-identical copy. No generated image or pixel changes.",
+    "used_by": "Material/ScreenSpaceOverlay_DappledSunlight_A.mat: _Distort"
+  },
+  {
+    "file": "LightingRamp_2Levels_1.png",
+    "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\LightingRamp_2Levels_1.png",
+    "sha256": "56b11baa0719b7e4a0fda0f5b3ac1e96099b6bc35c32f966c006bd46b91261dc",
+    "method": "Byte-identical copy. No generated image or pixel changes.",
+    "used_by": "Material/StencilLighting_Volumetric.mat: _Ramp"
+  }
+]

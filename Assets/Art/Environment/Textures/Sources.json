@@ -1,0 +1,703 @@
+{
+  "coordinate_convention": "Crops use PNG top-left origin; dimensions are in pixels.",
+  "assets": [
+    {
+      "name": "TreeCanopy",
+      "file": "TreeCanopy.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Tree1.png",
+      "source_size": [
+        2048,
+        2048
+      ],
+      "crop_xywh_top_left": [
+        2,
+        702,
+        391,
+        693
+      ],
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": null,
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\TextAsset\\Tree1.atlas.txt",
+      "atlas_region": "images/Tree_Medium_Top",
+      "output_size": [
+        391,
+        693
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "TreeTrunk",
+      "file": "TreeTrunk.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Tree1.png",
+      "source_size": [
+        2048,
+        2048
+      ],
+      "crop_xywh_top_left": [
+        2,
+        451,
+        526,
+        249
+      ],
+      "restore_clockwise_degrees": 90,
+      "alpha_trim_ltrb": null,
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\TextAsset\\Tree1.atlas.txt",
+      "atlas_region": "images/Tree_Medium_Trunk1",
+      "output_size": [
+        249,
+        526
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "TreeCanopySmall",
+      "file": "TreeCanopySmall.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Tree2.png",
+      "source_size": [
+        1024,
+        1024
+      ],
+      "crop_xywh_top_left": [
+        2,
+        265,
+        520,
+        289
+      ],
+      "restore_clockwise_degrees": 90,
+      "alpha_trim_ltrb": [
+        0,
+        0,
+        289,
+        519
+      ],
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\TextAsset\\Tree2.atlas.txt",
+      "atlas_region": "images/Tree_Small_Top",
+      "output_size": [
+        289,
+        519
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "TreeTrunkSmall",
+      "file": "TreeTrunkSmall.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Tree2.png",
+      "source_size": [
+        1024,
+        1024
+      ],
+      "crop_xywh_top_left": [
+        2,
+        745,
+        321,
+        166
+      ],
+      "restore_clockwise_degrees": 90,
+      "alpha_trim_ltrb": null,
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\TextAsset\\Tree2.atlas.txt",
+      "atlas_region": "images/Tree_Small_Trunk1",
+      "output_size": [
+        166,
+        321
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "Sapling",
+      "file": "Sapling.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Tree1.png",
+      "source_size": [
+        2048,
+        2048
+      ],
+      "crop_xywh_top_left": [
+        395,
+        732,
+        684,
+        161
+      ],
+      "restore_clockwise_degrees": 90,
+      "alpha_trim_ltrb": null,
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\TextAsset\\Tree1.atlas.txt",
+      "atlas_region": "images/Sapling3",
+      "output_size": [
+        161,
+        684
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "Stump",
+      "file": "Stump.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Tree1.png",
+      "source_size": [
+        2048,
+        2048
+      ],
+      "crop_xywh_top_left": [
+        923,
+        1080,
+        249,
+        93
+      ],
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": null,
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\TextAsset\\Tree1.atlas.txt",
+      "atlas_region": "images/Tree_Medium_Stump",
+      "output_size": [
+        249,
+        93
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "Grass",
+      "file": "Grass.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\GrassTuFt_1.png",
+      "source_size": [
+        65,
+        55
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        3,
+        8,
+        62,
+        55
+      ],
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        59,
+        47
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "GrassSmall",
+      "file": "GrassSmall.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\GrassTuFt_0.png",
+      "source_size": [
+        65,
+        45
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        4,
+        8,
+        61,
+        45
+      ],
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        57,
+        37
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "RockA",
+      "file": "RockA.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Resources\\rocks\\Rock0.png",
+      "source_size": [
+        433,
+        169
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": null,
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        433,
+        169
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "RockB",
+      "file": "RockB.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Resources\\rocks\\Rock1.png",
+      "source_size": [
+        413,
+        173
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        0,
+        1,
+        413,
+        173
+      ],
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        413,
+        172
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "Ground",
+      "file": "Ground.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\BuildingGrassFill.png",
+      "source_size": [
+        284,
+        284
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": null,
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        284,
+        284
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "Soil",
+      "file": "Soil.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\DirtFill.png",
+      "source_size": [
+        284,
+        284
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": null,
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        284,
+        284
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "DirtPatch",
+      "file": "DirtPatch.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Dirt2.png",
+      "source_size": [
+        588,
+        231
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": null,
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        588,
+        231
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "Border",
+      "file": "Border.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\DirtOutline.png",
+      "source_size": [
+        1200,
+        150
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        0,
+        29,
+        1200,
+        150
+      ],
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        1200,
+        121
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "Candle",
+      "file": "Candle.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Decoration_CandleRock.png",
+      "source_size": [
+        256,
+        256
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        45,
+        50,
+        211,
+        256
+      ],
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        166,
+        206
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "Lamp",
+      "file": "Lamp.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Icon_LeafyLampPost.png",
+      "source_size": [
+        512,
+        512
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        156,
+        12,
+        356,
+        496
+      ],
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        200,
+        484
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "FlowerCart",
+      "file": "FlowerCart.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Icon_FlowerCartSmall.png",
+      "source_size": [
+        512,
+        512
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        52,
+        64,
+        464,
+        444
+      ],
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        412,
+        380
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "Mushrooms",
+      "file": "Mushrooms.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\MushroomPatch.png",
+      "source_size": [
+        209,
+        184
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": null,
+      "atlas": null,
+      "atlas_region": null,
+      "output_size": [
+        209,
+        184
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Original pixels only; no recoloring or generated artwork."
+    },
+    {
+      "name": "GrassClumpA",
+      "file": "GrassClumpA.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Grass_Dungeon1.png",
+      "source_size": [
+        2048,
+        1024
+      ],
+      "crop_xywh_top_left": [
+        276,
+        953,
+        62,
+        59
+      ],
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        0,
+        1,
+        60,
+        59
+      ],
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Sprite\\grassbit_4.asset",
+      "atlas_region": "grassbit_4",
+      "original_sprite_rect_xywh_bottom_left": [
+        276.0,
+        12.0,
+        61.923878,
+        59.0
+      ],
+      "output_size": [
+        60,
+        58
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Exact original Unity Sprite rectangle; original pixels, no painting, recoloring or arbitrary atlas crop."
+    },
+    {
+      "name": "GrassClumpB",
+      "file": "GrassClumpB.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Grass_Dungeon1.png",
+      "source_size": [
+        2048,
+        1024
+      ],
+      "crop_xywh_top_left": [
+        506,
+        941,
+        59,
+        68
+      ],
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        0,
+        0,
+        57,
+        67
+      ],
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Sprite\\grassbit_8.asset",
+      "atlas_region": "grassbit_8",
+      "original_sprite_rect_xywh_bottom_left": [
+        506.0,
+        15.0,
+        58.948685,
+        68.0
+      ],
+      "output_size": [
+        57,
+        67
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Exact original Unity Sprite rectangle; original pixels, no painting, recoloring or arbitrary atlas crop."
+    },
+    {
+      "name": "GrassClumpC",
+      "file": "GrassClumpC.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\Grass_Dungeon1.png",
+      "source_size": [
+        2048,
+        1024
+      ],
+      "crop_xywh_top_left": [
+        673,
+        915,
+        84,
+        104
+      ],
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        1,
+        2,
+        82,
+        104
+      ],
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Sprite\\grass_12.asset",
+      "atlas_region": "grass_12",
+      "original_sprite_rect_xywh_bottom_left": [
+        673.0,
+        5.0,
+        83.98709,
+        103.92388
+      ],
+      "output_size": [
+        81,
+        102
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Exact original Unity Sprite rectangle; original pixels, no painting, recoloring or arbitrary atlas crop."
+    },
+    {
+      "name": "GrassClumpD",
+      "file": "GrassClumpD.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\FarmCrop_Grass1.png",
+      "source_size": [
+        414,
+        147
+      ],
+      "crop_xywh_top_left": [
+        0,
+        35,
+        88,
+        106
+      ],
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": null,
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Sprite\\FarmCrop_Grass1_0.asset",
+      "atlas_region": "FarmCrop_Grass1_0",
+      "original_sprite_rect_xywh_bottom_left": [
+        0.0,
+        6.0,
+        88.0,
+        106.0
+      ],
+      "output_size": [
+        88,
+        106
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Exact original Unity Sprite rectangle; original pixels, no painting, recoloring or arbitrary atlas crop."
+    },
+    {
+      "name": "GrassClumpE",
+      "file": "GrassClumpE.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\FarmCrop_Grass2.png",
+      "source_size": [
+        545,
+        385
+      ],
+      "crop_xywh_top_left": [
+        405,
+        12,
+        140,
+        369
+      ],
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": [
+        1,
+        1,
+        140,
+        369
+      ],
+      "atlas": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Sprite\\FarmCrop_Grass2_7.asset",
+      "atlas_region": "FarmCrop_Grass2_7",
+      "original_sprite_rect_xywh_bottom_left": [
+        405.0,
+        4.0,
+        140.0,
+        369.0
+      ],
+      "output_size": [
+        139,
+        368
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Exact original Unity Sprite rectangle; original pixels, no painting, recoloring or arbitrary atlas crop."
+    },
+    {
+      "name": "LeafClump",
+      "file": "LeafClump.png",
+      "source": "D:\\赛博仓鼠\\游戏类\\202611皮影\\cultofthelambref\\ExportedProject\\Assets\\Texture2D\\PumpkinLeaves.png",
+      "source_size": [
+        122,
+        69
+      ],
+      "crop_xywh_top_left": null,
+      "restore_clockwise_degrees": 0,
+      "alpha_trim_ltrb": null,
+      "atlas": null,
+      "atlas_region": null,
+      "original_sprite_rect_xywh_bottom_left": null,
+      "output_size": [
+        122,
+        69
+      ],
+      "suggested_pivot": [
+        0.5,
+        0
+      ],
+      "notes": "Complete original foliage image; only transparent outer pixels trimmed."
+    }
+  ]
+}

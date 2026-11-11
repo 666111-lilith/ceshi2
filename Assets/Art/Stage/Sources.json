@@ -1,0 +1,92 @@
+[
+  {
+    "file": "Key.png",
+    "source_game": "Cult of the Lamb",
+    "source_sprite": "BoneKey",
+    "source_bundle": "D:\\SteamLibrary\\steamapps\\common\\Cult of the Lamb\\Cult Of The Lamb_Data\\StreamingAssets\\aa\\StandaloneWindows64\\feec4c3c4756515edb46c48464103089.bundle",
+    "serialized_file": "CAB-6355e6ba9218cd12f48b18e657d8bc31",
+    "path_id": "5384813182679687740",
+    "size": [
+      111,
+      70
+    ],
+    "alpha_bounds": [
+      0,
+      0,
+      111,
+      70
+    ],
+    "sha256": "8eff9b80b87a68f1fe096ea22186e3f1f35865ea504738e8df0610ceed6dde65",
+    "processing": "UnityPy Sprite.image atlas extraction only. Original source colors and alpha retained; no drawing or recoloring.",
+    "suggested_pixels_per_unit": 100,
+    "suggested_pivot": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "file": "Projector.png",
+    "source_game": "Cult of the Lamb",
+    "source_sprite": "Icon_DST_ScienceMachine",
+    "source_bundle": "D:\\SteamLibrary\\steamapps\\common\\Cult of the Lamb\\Cult Of The Lamb_Data\\StreamingAssets\\aa\\StandaloneWindows64\\cb6c235e6b422e75dcbb560045e4e105.bundle",
+    "serialized_file": "CAB-4f77bd69d5d5541200872bba5637120c",
+    "path_id": "-5375013236515768664",
+    "size": [
+      348,
+      408
+    ],
+    "alpha_bounds": [
+      0,
+      0,
+      348,
+      408
+    ],
+    "sha256": "a354a7a8ac31658836e712b50f91bd2d45bcc8f51cc539f1df0db5e29eb720de",
+    "processing": "UnityPy Sprite.image atlas extraction only. Original source colors and alpha retained; no drawing or recoloring.",
+    "suggested_pixels_per_unit": 100,
+    "suggested_pivot": [
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "file": "Lever.png",
+    "source_game": "Cult of the Lamb",
+    "source_sprite": "Icon_DST_AlchemyEngine",
+    "source_bundle": "D:\\SteamLibrary\\steamapps\\common\\Cult of the Lamb\\Cult Of The Lamb_Data\\StreamingAssets\\aa\\StandaloneWindows64\\cb6c235e6b422e75dcbb560045e4e105.bundle",
+    "serialized_file": "CAB-4f77bd69d5d5541200872bba5637120c",
+    "path_id": "8764850367200622745",
+    "size": [
+      311,
+      351
+    ],
+    "alpha_bounds": [
+      1,
+      0,
+      311,
+      351
+    ],
+    "sha256": "973a2c1bba2f4cec826b432a368d3b939bc40e24ec812a2febbedbde9e7c16f0",
+    "processing": "UnityPy Sprite.image atlas extraction only. Original source colors and alpha retained. No drawing, recoloring, or compositing.",
+    "role": "Existing wheel-operated mechanism used as the performance control. This is not an original pull-lever sprite.",
+    "suggested_pixels_per_unit": 100,
+    "suggested_pivot": [
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "file": "LeverShape.png",
+    "source_game": "Cult of the Lamb",
+    "source_sprite": "FishingRod",
+    "source_bundle": "D:\\SteamLibrary\\steamapps\\common\\Cult of the Lamb\\Cult Of The Lamb_Data\\StreamingAssets\\aa\\StandaloneWindows64\\8255217b7ddb25794dc92dc804ee9f40.bundle",
+    "serialized_file": "CAB-faef9c0017317c4d8768113df257cb63",
+    "path_id": "2276262679220795468",
+    "size": [
+      144,
+      210
+    ],
+    "sha256": "a85e7ad35f5092c6974386385ca31d9e306f734ed72ef8a5fc9b01d63b7c286f",
+    "processing": "Original FishingRod sprite extracted unchanged; reused for pivot and angled handle silhouette. No drawing, compositing, or recoloring of source pixels."
+  }
+]
